@@ -5,3 +5,4 @@ else:
     print("nie jestes pelnoletni :(")
 
 
+

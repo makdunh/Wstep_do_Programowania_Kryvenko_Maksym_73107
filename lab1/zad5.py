@@ -19,3 +19,4 @@ cena = 6.5 * spPaliwo
 
 print("Spalone paliwo {spPaliwo} l")
 print(f"Cena {cena} : zl/l")
+

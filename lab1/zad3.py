@@ -17,3 +17,4 @@ print("cos")
 
 
 print("nazywam sie",imie, ",chodze na uczelnie", uczelnia, ",moj kierunek to", kierunek )
+

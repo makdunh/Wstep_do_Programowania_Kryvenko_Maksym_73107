@@ -15,3 +15,4 @@ if y > z:
 
 # Wynik
 print("Liczby w kolejności rosnącej:", x, y, z)
+

@@ -15,3 +15,4 @@ if (wiek > 0) and (wiek < 150):
 else:
     print("nieprawidlowe dane")
 
+
