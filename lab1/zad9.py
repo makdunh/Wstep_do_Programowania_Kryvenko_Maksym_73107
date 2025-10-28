@@ -14,3 +14,4 @@ if (wiek > 0) and (wiek < 150):
             print("cena biletu to 20zl.")
 else:
     print("nieprawidlowe dane")
+

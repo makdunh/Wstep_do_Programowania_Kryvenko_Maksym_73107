@@ -4,3 +4,4 @@ if wiek>=18:
 else:
     print("nie jestes pelnoletni :(")
 
+

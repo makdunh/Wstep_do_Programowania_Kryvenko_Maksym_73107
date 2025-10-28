@@ -37,3 +37,4 @@ else:
         im = math.sqrt(-delta) / (2*a)
         print("Brak rozwiązań rzeczywistych.")
         print(f"Rozwiązania zespolone: x1 = {re} - {im}i, x2 = {re} + {im}i")
+
