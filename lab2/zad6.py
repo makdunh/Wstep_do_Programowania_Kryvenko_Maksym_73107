@@ -8,3 +8,5 @@ print(tresc[0: -2])
 print(tresc[1: :3])
 print(tresc[10: ])
 print(tresc[-1: :-1])
+
+print('tak ' *2)
