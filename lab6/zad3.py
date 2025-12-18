@@ -7,6 +7,7 @@ dane = {
     2021: [45_000, 100_000, 27_000, 170_000],
     2022: [50_000, 120_000, 30_000, 200_000]
 }
+
 df = pd.DataFrame(dane)
 
 max_w_kolumnach = df.drop(columns=["KRAJ"]).max()

@@ -11,3 +11,4 @@ print("macierz:\n", macierz)
 print("elementy > 20:", wieksze_20)
 print("liczba elementów > 20:", liczba_wiekszych_20)
 print("średnia całej tablicy:", srednia)
+
